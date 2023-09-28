@@ -10,7 +10,7 @@
         :bgImage="getAssetPath('media/patterns/vector-1.png')"
       />
 
-      <Widget3 className="h-md-50 mb-5 mb-xl-10" :chartSize="70" />
+      <Widget4 className="h-lg-50" />
 
     </div>
     <!--end::Col-->
